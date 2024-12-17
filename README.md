@@ -23,7 +23,7 @@ Mis ejercicios de programación competitiva en la plataforma AceptaElReto.
 ### [2DAM_DesarrolloInterfaces](https://github.com/Maek0s/2DAM_DesarrolloInterfaces)
 Repositorio utilizado para el desarrollo de interfaces en el curso de 2DAM. Contiene diversas actividades y proyectos de interfaces gráficas.
 
-### [PokeSharpWeb](https://github.com/Maek0s/PokeSharpWeb)
+### [PokeSharpWeb (En proceso)](https://github.com/Maek0s/PokeSharpWeb)
 Es la web con la que acompañaré a mi proyecto de grado. [Visita la web](https://maek0s.github.io/PokeSharpWeb/)
 
 ### [Proyectos](https://github.com/Maek0s/Proyectos)
