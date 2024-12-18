@@ -1,6 +1,6 @@
 # ¡Hola! Soy Marcos Zahonero👋
 
-Soy un desarrollador backend con conocimientos en Java, JavaScript, Python, C#, Kotlin  y actualmente estoy aprendiendo React y C++. Además, me gusta la programación competitiva, es por eso que tengo un repositorio de [AceptaElReto](https://github.com/Maek0s/AceptaElReto) y suelo participar en concursos incluso en [Codeforces](https://codeforces.com/).
+Soy un desarrollador backend con conocimientos en Java, JavaScript, Python, C#, Kotlin  y actualmente estoy aprendiendo React y C++. Además, me apasiona la programación competitiva, por lo que tengo un repositorio de [AceptaElReto](https://github.com/Maek0s/AceptaElReto) y suelo participar en concursos incluso en [Codeforces](https://codeforces.com/).
 
 ## 🛠️ Lenguajes y Herramientas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
