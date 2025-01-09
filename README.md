@@ -18,15 +18,16 @@ Soy un desarrollador backend con conocimientos en Java, Python, C#, Kotlin y act
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## 🌟 Repositorios Destacados
-### [AceptaElReto](https://github.com/Maek0s/AceptaElReto)
-Mis ejercicios de programación competitiva en la plataforma AceptaElReto.
-[Perfil en AceptaElReto](https://aceptaelreto.com/user/profile.php?id=32749)
+
+### [PokeSharpWeb (En proceso)](https://github.com/Maek0s/PokeSharpWeb)
+Es la web con la que acompañaré a mi proyecto de grado. [Visita la web](https://maek0s.github.io/PokeSharpWeb/)
 
 ### [2DAM_DesarrolloInterfaces](https://github.com/Maek0s/2DAM_DesarrolloInterfaces)
 Repositorio utilizado para el desarrollo de interfaces en el curso de 2DAM. Contiene diversas actividades y proyectos de interfaces gráficas.
 
-### [PokeSharpWeb (En proceso)](https://github.com/Maek0s/PokeSharpWeb)
-Es la web con la que acompañaré a mi proyecto de grado. [Visita la web](https://maek0s.github.io/PokeSharpWeb/)
+### [AceptaElReto](https://github.com/Maek0s/AceptaElReto)
+Mis ejercicios de programación competitiva en la plataforma AceptaElReto.
+[Perfil en AceptaElReto](https://aceptaelreto.com/user/profile.php?id=32749)
 
 ### [Proyectos](https://github.com/Maek0s/Proyectos)
 Repositorio donde almaceno los proyectos que he creado por mi cuenta.
