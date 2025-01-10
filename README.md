@@ -20,7 +20,6 @@ Soy un desarrollador backend con conocimientos en Java, Python, C#, Kotlin y act
 ## 🌟 Repositorios Destacados
 
 ### [PokeSharpWeb (En proceso)](https://github.com/Maek0s/PokeSharpWeb)
-(Hay páginas a medias y otras sin empezar) <br>
 Es la web con la que acompañaré a mi proyecto de grado. [Visita la web](https://maek0s.github.io/PokeSharpWeb/)
 
 ### [Gestión de almacén (En proceso)](https://github.com/Maek0s/GestionAlmacen)
