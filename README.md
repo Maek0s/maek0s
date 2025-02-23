@@ -1,6 +1,6 @@
 # ¡Hola! Soy Marcos Zahonero👋
 
-Soy un desarrollador backend con conocimientos en Java, Python, C#, Kotlin y actualmente estoy aprendiendo JavaScript, React y C++. Además, me apasiona la programación competitiva, por lo que tengo un repositorio de [AceptaElReto](https://github.com/Maek0s/AceptaElReto) y suelo participar en concursos incluso en [Codeforces](https://codeforces.com/).
+Soy un desarrollador backend con conocimientos en Java, Python, C#, Kotlin y actualmente estoy aprendiendo JavaScript y C++. Además, me apasiona la programación competitiva, por lo que tengo un repositorio de [AceptaElReto](https://github.com/Maek0s/AceptaElReto) y suelo participar en concursos incluso en [Codeforces](https://codeforces.com/).
 
 ## 🛠️ Lenguajes y Herramientas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -15,8 +15,8 @@ Soy un desarrollador backend con conocimientos en Java, Python, C#, Kotlin y act
 
 ### 📖 Aprendiendo
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ## 🌟 Repositorios Destacados
 
